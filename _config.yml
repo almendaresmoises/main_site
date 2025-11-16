@@ -1,4 +1,4 @@
-baseurl: '/'
+baseurl: '/main_site'
 permalink: pretty
 title: 'Jekyll Serif'
 
